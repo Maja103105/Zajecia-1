@@ -1,4 +1,4 @@
-Hej 
+Cześć 
 druga linijka 
 trzecia linijka
 Czwarta linijka
